@@ -8,7 +8,7 @@ This project demonstrates how to use the **YOLOv3 (You Only Look Once)** deep le
 
 ```
 yolov3_object_detection/
-├── yolov3_object_detection.py
+#├── yolov3_object_detection.py
 ├── yolov3.cfg
 ├── yolov3.weights
 ├── coco.names
